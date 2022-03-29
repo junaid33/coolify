@@ -47,7 +47,7 @@
 		"prettier": "2.6.1",
 		"prettier-plugin-svelte": "2.6.0",
 		"prettier-plugin-tailwindcss": "0.1.8",
-		"prisma": "3.11.1",
+		"prisma": "^3.7.0",
 		"svelte": "3.46.4",
 		"svelte-check": "2.4.6",
 		"svelte-preprocess": "4.10.4",
@@ -60,7 +60,7 @@
 	"type": "module",
 	"dependencies": {
 		"@iarna/toml": "2.2.5",
-		"@prisma/client": "3.11.1",
+		"@prisma/client": "^3.7.0",
 		"@sentry/node": "6.19.2",
 		"bcrypt": "5.0.1",
 		"bullmq": "1.78.1",
