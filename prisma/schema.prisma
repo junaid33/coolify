@@ -3,7 +3,7 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "postgres"
   url      = env("COOLIFY_DATABASE_URL")
 }
 
